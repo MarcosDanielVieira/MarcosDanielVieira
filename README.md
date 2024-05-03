@@ -4,7 +4,7 @@
 **MarcosDanielVieira/MarcosDanielVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Aqui estão algumas sobre mim:
+Aqui estão algumas informações sobre mim:
 
 - 🔭 Atualmente estou trabalhando back-end e front-end
 - 🌱 Estou aprendendo inglês
