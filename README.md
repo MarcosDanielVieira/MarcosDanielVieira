@@ -1,9 +1,5 @@
 ### Olá! Eu sou Marcos Daniel, criador de conteúdo de programação e tecnologia!
 
-<!--
-**MarcosDanielVieira/MarcosDanielVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 Aqui estão algumas informações sobre mim:
 
 - 🔭 Atualmente estou trabalhando back-end e front-end
@@ -16,7 +12,9 @@ Aqui estão algumas informações sobre mim:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDanielVieira&layout=compact&langs_count=16&theme=dracula"/>
 </div> -->
 
-##
+## 
+
+### Linguagens e Ferramentas:
 
 <div style="display: inline_block"><br>
   <img align="center" title="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -34,6 +32,8 @@ Aqui estão algumas informações sobre mim:
 </div>
 
 ##
+
+### Entre em Contato:
 
 <div> 
   
