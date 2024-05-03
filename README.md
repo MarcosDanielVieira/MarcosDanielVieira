@@ -3,9 +3,10 @@
 Aqui estão algumas informações sobre mim:
 
 - 🔭 Atualmente estou trabalhando back-end e front-end
-- 🛠️ Atuação em 10 projetos
+- 🛠️ Atuei em 10 projetos
+- 🚀 Atuação simultânea em 2 projetos 
 - 🌱 Estou aprendendo inglês
-- 😄 Pronouns: ele/dele
+- 😄 Pronome: ele/dele
 
 <!-- <div>
   <a href="https://github.com/MarcosDanielVieira">
