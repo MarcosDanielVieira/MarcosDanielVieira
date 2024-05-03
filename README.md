@@ -3,6 +3,7 @@
 Aqui estão algumas informações sobre mim:
 
 - 🔭 Atualmente estou trabalhando back-end e front-end
+- 🛠️ Atuação em 10 projetos
 - 🌱 Estou aprendendo inglês
 - 😄 Pronouns: ele/dele
 
