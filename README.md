@@ -33,12 +33,12 @@ Criador de conteúdo sobre **programação e tecnologia**, com foco em desenvolv
 ---
 
 ### 📈 Estatísticas
-<div>
+<div align="center">
   <a href="https://github.com/MarcosDanielVieira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosDanielVieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosDanielVieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDanielVieira&layout=compact&langs_count=16&theme=dracula"/>
   </a>
-</div> 
+</div>
 
 ---
 
