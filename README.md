@@ -7,7 +7,6 @@ Criador de conteúdo sobre **programação e tecnologia**, com foco em desenvolv
 
 - 💻 Desenvolvedor full stack (back-end & front-end)  
 - 🧠 Experiência em **10 projetos** já entregues  
-- 🔄 Atuando simultaneamente em **2 projetos**  
 - 🧍‍♂️ Pronome: ele/dele  
 
 ---
